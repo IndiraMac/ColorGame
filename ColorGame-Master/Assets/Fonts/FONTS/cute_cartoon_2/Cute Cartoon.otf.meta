@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: eaa165c668e594489be1df357f4a5589
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cute Cartoon
+  fontNames:
+  - Cute Cartoon
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 52085c961d31a435c83af0298f2e2c2c, type: 3}
+  - {fileID: 12800000, guid: 774a140ba61e248428f2b9c303ef3584, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
